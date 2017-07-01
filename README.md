@@ -4,7 +4,7 @@ A library of React components created in "Creating Reusable React Components" on
 
 ## Install
 ```
-npm install ps-react
+npm install ps-react-ravindra
 ```
 
 ## Docs
