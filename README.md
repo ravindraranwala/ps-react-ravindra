@@ -8,4 +8,4 @@ npm install ps-react
 ```
 
 ## Docs
-[Component documentation](http://coryhouse.github.io/ps-react)
+[Component documentation](https://ravindraranwala.github.io/ps-react-ravindra)
